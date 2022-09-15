@@ -46,8 +46,8 @@ $dest_dir_linux="/root" # directory for copying a zabbix package
 #Put your VMs here
 $vms= @(
 	'VM01'
-    'VM02'
-	'VM02'
+        'VM02'
+        'VM03'
 )
 #Cheking version of OS
 $s0=0
